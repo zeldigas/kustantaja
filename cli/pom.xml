@@ -71,7 +71,7 @@
         <dependency>
             <groupId>com.github.ajalt.clikt</groupId>
             <artifactId>clikt-jvm</artifactId>
-            <version>4.4.0</version>
+            <version>5.0.2</version>
         </dependency>
 
         <dependency>
