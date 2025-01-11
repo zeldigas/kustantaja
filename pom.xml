@@ -125,7 +125,7 @@
             <dependency>
                 <groupId>io.mockk</groupId>
                 <artifactId>mockk-jvm</artifactId>
-                <version>1.13.12</version>
+                <version>1.13.16</version>
             </dependency>
             <dependency>
                 <groupId>org.wiremock</groupId>
